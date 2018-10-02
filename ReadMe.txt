@@ -1,5 +1,5 @@
-Teste alteração!
+Teste alteracao!
 
-Segunda alteração no doc.
+Segunda alteracao no doc.
 
-Terceira alteração.
+Terceira alteracao.
